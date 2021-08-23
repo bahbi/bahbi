@@ -5,3 +5,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-barbarapires249@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barbarapires249@gmail.com)](mailto:barbarapires249@gmail.com)
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+Uma Mana na programação 
