@@ -1,9 +1,13 @@
-### Olá, sou Bárbara Pires, uma mana digital!👋
- QA Analyst, Mestranda em Engenharia de Computação e Sistemas, curto o desenvolvimento Mobile e um bom livro as vezes é uma boa.
+## Bem-vindo ao meu GitHub! 👋
+
+## 🗂️ Sobre Mim
+Olá, eu sou a Bárbara, uma Mestranda em Engenharia de Computação e Sistemas, e uma Mana digital apaixonada por explorar o vasto mundo dos dados! 💻📊 Estou sempre buscando novos desafios e oportunidades para aprender e crescer neste campo incrivelmente dinâmico.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbara-pires-2929aa1a0/)](https://www.linkedin.com/in/barbara-pires-2929aa1a0/)
 [![Gmail Badge](https://img.shields.io/badge/-barbarapires249@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barbarapires249@gmail.com)](mailto:barbarapires249@gmail.com)
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+### 🚀 Confira meus repositórios ⬇️
+
+
 
